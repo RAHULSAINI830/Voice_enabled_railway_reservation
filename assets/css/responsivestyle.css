@@ -1,0 +1,44 @@
+@media only screen and (max-width: 768px) {
+    .header_social_icon{
+        display: none;
+    }
+    .navbar-toggler span i {
+        margin-top: 6px;
+        color: #069292;
+    }
+    .header_section .navbar-nav {
+        background: #0692923b;
+        padding: 0px 20px;
+        border-radius: 4px;
+        margin-top:25px;
+    }
+    .header_section .navbar-nav li {
+        text-align: center;
+        padding-bottom:10px;
+    }
+    .header_section .navbar-nav li a{
+        color:#383838;
+    }
+    .intro_section h2 {font-size: 24px;}
+    .service_section h2 {font-size: 26px;}
+    .first_footer_copright, .company_developed {text-align: center;}
+    .braudcumb_section p {font-size: 14px;}
+    .braudcumb_section h3 {font-size: 34px;}
+    .inner_about_div1{
+        margin-bottom: 15px;align-items: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    .about_page_section {
+        padding: 40px 20px;
+    }    
+    .form_div h1 {
+        font-size: 32px;
+    }
+
+    .inner_ware_text{
+        margin-bottom: 40px;
+    }
+}
